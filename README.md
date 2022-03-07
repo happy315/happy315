@@ -5,9 +5,8 @@
 
 I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also i created mobile apps with ReactNative.
 
-Skills: React / Javascript/ Node / HTML / CSS/ MongoDb / PostgreSQL /
+Skills: React / Javascript/ Node / HTML / CSS/ MongoDb / PostgreSQL 
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/happy315)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com)  
