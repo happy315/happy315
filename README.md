@@ -69,7 +69,7 @@ I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs a
 
 #### Pin repositories
 
-<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=App-landing-page&theme=vue-dark &bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=MALP&theme=vue-dark&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> 
+<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=App-landing-page&theme= &bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=MALP&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"> 
 
 #### GitHub Staus and Programming Language using bar
 
