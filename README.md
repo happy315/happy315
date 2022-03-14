@@ -73,8 +73,8 @@ I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs a
 
 #### GitHub Staus and Programming Language using bar
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=happy315&theme=react&title_color=F85D7F&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=happy315&show_icons=true&count_private=true&theme=react&hide_border=true" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=happy315&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=happy315&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="My github stats" />
 
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy315&layout=cobalt&theme=react&hide_border=true" /> 
 
