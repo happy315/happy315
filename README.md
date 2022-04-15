@@ -68,7 +68,7 @@ I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs a
 
 #### Pin repositories
 [<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=MALP&theme=cobalt&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/happy315/MALP)
-[<img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=happy315&repo=App-landing-page&theme=vision-friendly-dark&hide_border=true&show_icons=false" alt="github-readme-streak-stats">](https://github.com/happy315/App-landing-page)
+
 
 
 #### GitHub Staus and Programming Language using bar
