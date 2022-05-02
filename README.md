@@ -1,6 +1,7 @@
 #  <p align="center">Harpreet Singh</p>
-##  <p align="center" fontSize="50px">I am a passionate Javascript and Typescript developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also I created MOBILE APPS with ReactNative.</p>
 ![I am a javascript developer](https://github.com/happy315/my-images/blob/master/Add%20a%20heading%20(3).png)
+
+##  <p align="center">I am a passionate Javascript and Typescript developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also I created MOBILE APPS with ReactNative.</p>
 
 #### Programming Languages
 <p>
