@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Harpreet Singh
 
 #### I am a passionate javascript developer
-![I am a javascript developer](https://github.com/happy315/my-images/blob/master/Harpreet%20si%20(2).png)
+![I am a javascript developer](https://github.com/happy315/my-images/blob/master/Add%20a%20heading%20(3).png)
 
 I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also i created mobile apps with ReactNative.
 
