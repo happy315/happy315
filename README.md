@@ -72,7 +72,7 @@
 #### GitHub Staus and Programming Language using bar
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=happy315&theme=react&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=happy315&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="My github stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=happy315&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="My github stats" /> -->
 
 <!-- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy315&layout=cobalt&theme=react&hide_border=true" />  -->
 
