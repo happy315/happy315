@@ -1,7 +1,6 @@
 ##  <p align="center">I am a passionate Javascript and Typescript developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also I created MOBILE APPS with ReactNative.</p>
 
 ![I am a javascript developer](https://github.com/happy315/my-images/blob/master/Add%20a%20heading.png)
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ### Contact me anytime
 
