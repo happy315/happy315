@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">I am a passionate Javascript and Typescript developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs also I created MOBILE APPS with ReactNative.</h3>
 <div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=happy315&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://github.com/happy315/my-images/blob/master/Add%20a%20heading.png" alt="Profile Views" />
 </div>
 
 
