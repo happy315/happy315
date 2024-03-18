@@ -73,6 +73,10 @@
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
+<div align="center"><a href="https://github.com/happpy315/v1-clinic-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happy315&repo=v1-clinic-search&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
+</a></div>
+
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
 
