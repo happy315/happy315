@@ -18,13 +18,10 @@
 💬 Message me for work opportunities **Open for work**
 
 ## 🏆 Achievement
-
-- 1.6k+ Stars 🌟, 800+ Forks & 15+ Contributors in **[Namaste-React](https://github.com/chetannada/Namaste-React)** Github Repository was **[Trending on Github Feb-2023](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view)**
-- Among the Top 5% & 20+ Service bookings completed at **[Topmate](https://topmate.io/chetannada)**
-- Among the Top 400 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
-- Top Front-End Development Voice on **[Linkedin](https://www.linkedin.com/in/chetannada/)**
+ - Finished 619 hours of work on Upwork as a full-stack freelancer **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
+- Earn 9k$+ on Upwork  **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
 - Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
-- 85K+ Subscribers on Educational **[Youtube Channel](https://www.youtube.com/@ClickHow/about)**
+- 500+ Followers on Linkedin **[Linkedin](https://www.linkedin.com/in/harpreet-singh-josan/)**
 
 📫 How to reach me **josanhappy7658@gmail.com**
 
