@@ -20,7 +20,7 @@
 ## 🏆 Achievement
  - Finished 619 hours of work on Upwork as a full-stack freelancer **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
 - Earn 9k$+ on Upwork  **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
-- Dev Ranking (Purple Belt) at **[CodeGrepper](https://www.grepper.com/profile/chetan-nada)**
+- Earn Top Rated Freelance Badge at Upwork **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
 - 500+ Followers on Linkedin **[Linkedin](https://www.linkedin.com/in/harpreet-singh-josan/)**
 
 📫 How to reach me **josanhappy7658@gmail.com**
