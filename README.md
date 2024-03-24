@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=0000ff&random=false&width=705&lines=I+am+Harpreet+Singh;Your+welcome!;I+am+a+javascript+developer;I+am+expert+Node+Js+developer" />
+  <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=0000ff&random=false&width=795&lines=Hello+ Your+Welcome!;I+am+Harpreet+Singh;I+am+a+javascript+developer;I+am+expert+Node+Js+developer;I+am+React+Native+mobile+app+developer" />
 </div>
  
 
@@ -64,9 +64,12 @@
 
 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Popular Repository:
-<div align="center"><a href="https://github.com/happpy315/v1-clinic-search">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happy315&repo=v1-clinic-search&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
+<div><a href="https://github.com/happy315/react-real-estate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happy315&repo=react-real-estate&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
 </a></div>
+<div><a href="https://github.com/happpy315/v1-clinic-search">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=happy315&repo=v1-clinic-search&cache_seconds=86400&theme=radical" alt="Namaste React Repository" />
+</a></div> 
 
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Stats:
