@@ -20,6 +20,11 @@
 
 💬 Message me for work opportunities **Open for work**
 
+## 💻 Projects
+
+💻 My first project is **[A mobile app landing page](https://realtimechatman.vercel.app/)**
+💻 My second project is **[React Native chat app](https://realtimechatman.vercel.app/)**
+
 ## 🏆 Achievement
  - Finished 619 hours of work on Upwork as a full-stack freelancer **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
 - Earn 9k$+ on Upwork  **[Upwork](https://www.upwork.com/freelancers/~01cb998dfde921a927)**
