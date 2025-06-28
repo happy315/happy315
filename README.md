@@ -26,7 +26,7 @@
 
 💻 My first project is **[A mobile app landing page](https://realtimechatman.vercel.app/)**
 
-💻 My second project is **[React Native chat app](https://realtimechatman.vercel.app/)**
+<!--- 💻 My second project is **[React Native chat app](https://realtimechatman.vercel.app/)**   -->
 
 
 
