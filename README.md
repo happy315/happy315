@@ -1,10 +1,7 @@
-<div align="center">
-  <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&color=0000ff&random=false&width=795&lines=Hello+ Your+Welcome!;I+am+Harpreet+Singh;I+am+a+javascript+developer;I+am+expert+Node+Js+developer;I+am+React+Native+mobile+app+developer" />
-</div>
- 
+<h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
+<h3 align="center">A passionate Mern stack developer from India</h3>
 
-
-<!--- <h3 align="center">I am a passionate Javascript and Typescript developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs I also created MOBILE APPS with ReactNative.</h3>  -->
+ <h3 align="center">I am a passionate Javascript  developer.I am expert in MERN stack. I love creating web apps through ReactJs and NodeJs </h3>  
 <div align='center'>
   <img src="https://github.com/happy315/my-images/blob/master/Add%20a%20heading.png" alt="Profile Views" />
 </div>
